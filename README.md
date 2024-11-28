@@ -6,3 +6,5 @@ Soil Moisture project
 * Nitrogen, Phosphorous, Pottassium, Soil Moisture, Electrical Conductivity, pH and Soil Temperature 
 
 ![alt tex](https://github.com/makeshm98/Soil_Moisture/blob/main/images/Untitled.jpeg)
+
+![alt tex](https://github.com/makeshm98/Soil_Moisture/blob/main/images/Screenshot%20from%202024-11-28%2017-14-30.png)

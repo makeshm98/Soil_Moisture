@@ -136,11 +136,6 @@ void loop() {
     delay(1000); // Wait for the response
 
     if (readModbusResponse(dataBuffer, numRegisters)) {
-      // Successfully read data, print the value
-      //SerialBT.print("Register 0x");
-      //SerialBT.print(registerAddresses[i], HEX);
-      //SerialBT.print(": ");
-      //SerialBT.println(dataBuffer[0]);
 
       if(registerAddresses[i] == 0x6)
       {
